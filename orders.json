@@ -1,0 +1,24 @@
+
+[
+    {
+        "uid": "sh2Rice",
+        "shopName": "sh2",
+        "item": "Rice",
+        "qty": "5",
+        "price": "75"
+    },
+    {
+        "uid": "sh2Curd",
+        "shopName": "sh2",
+        "item": "Curd",
+        "qty": "2",
+        "price": "28"
+    },
+    {
+        "uid": "sh1Butter",
+        "shopName": "sh1",
+        "item": "Butter",
+        "qty": "1",
+        "price": "52"
+    }
+]

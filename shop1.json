@@ -1,0 +1,84 @@
+[
+    {
+        "uid": "sh1Rice" ,
+        "shopName":"sh1",
+        "item":"Rice",
+        "qty":"100 kg",
+        "price":"Rs 80/Kg"
+       
+        
+    },
+    {
+        "uid": "sh1Lentil" ,
+        "shopName":"sh1",
+        "item":"Lentil",
+        "qty":"100 Kg",
+        "price":"Rs 70/Kg"
+        
+    }, 
+    {
+        "uid": "sh1Butter" ,
+        "shopName":"sh1",
+        "item":"Butter",
+        "qty":"25 Kg",
+        "price":"Rs 520/kg"
+        
+    },
+    {
+        "uid": "sh1Milk" ,
+        "shopName":"sh1",
+        "item":"Milk",
+        "qty":"10 Kg",
+        "price":"Rs 80/kg"
+        
+    },
+    {
+        "uid": "sh1Maggie" ,
+        "shopName":"sh1",
+        "item":"Maggie",
+        "qty":"30 Packet",
+        "price":"Rs 12/packet"
+        
+    },
+    {
+        "uid": "sh1Flour" ,
+        "shopName":"sh1",
+        "item":"Flour",
+        "qty":"35 Kg",
+        "price":"Rs 50/kg"
+        
+    },
+    {
+        "uid": "sh1MusterdOil" ,
+        "shopName":"sh1",
+        "item":"MusterdOil",
+        "qty":"20 Kg",
+        "price":"Rs 134/kg"
+        
+    },
+    {
+        "uid": "sh1Salt" ,
+        "shopName":"sh1",
+        "item":"Salt",
+        "qty":"15 Kg",
+        "price":"Rs 26/kg"
+        
+    },
+    {
+        "uid": "sh1ChilliPowder" ,
+        "shopName":"sh1",
+        "item":"ChilliPowder",
+        "qty":"30 kg",
+        "price":"Rs 135/kg"
+        
+    },
+    {
+        "uid": "sh1RefinedOil" ,
+        "shopName":"sh1",
+        "item":"RefinedOil",
+        "qty":"30 kg",
+        "price":"Rs 165/kg"
+        
+    }
+]
+
